@@ -67,6 +67,7 @@ main {
 
 .st {
 	display: flex;
+    padding: 3px;
 	gap: 5px;
 }
 
